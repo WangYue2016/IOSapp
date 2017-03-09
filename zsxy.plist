@@ -14,6 +14,7 @@
 					<string>http://gpchc.bshinfo.com/gwgpDown/demand.ipa</string>
 				</dict>
 			</array>
+			
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
