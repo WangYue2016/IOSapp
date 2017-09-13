@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://gpchc.bshinfo.com:8001/down/resources/zsgp.ipa</string>
+					<string>http://gpdep.bshinfo.com:8001/down/resources/zsgp.ipa</string>
 				</dict>
 			</array>
 			
